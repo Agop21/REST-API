@@ -37,11 +37,11 @@ This project aims to provide API for managing users, including functionalities l
 Once the server is running, you can use API endpoints to manage users. Refer to the API documentation section for details.
 
 ### API Documentation
-GET /users: Retrieve a list of users.
-POST /users: Create a new user.
-GET /users/:id: Retrieve a specific user by ID.
-DELETE /users/:id: Delete a user by ID.
-PATCH /users/:id: Update a user by ID.
+- GET /users: Retrieve a list of users.
+- POST /users: Create a new user.
+- GET /users/:id: Retrieve a specific user by ID.
+- DELETE /users/:id: Delete a user by ID.
+- PATCH /users/:id: Update a user by ID.
 
 ### Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
