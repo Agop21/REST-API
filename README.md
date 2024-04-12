@@ -19,7 +19,7 @@ This project aims to provide API for managing users, including functionalities l
 - Node.js
 - Express.js
 - JSON Web Tokens (JWT) for authentication
-- Mocked data for data storage
+- Mocked data for data storagе
 
 ### Installation
 
